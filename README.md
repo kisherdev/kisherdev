@@ -1,6 +1,6 @@
 
-🌠 `junior backend developer`  
-🏆 `senior tg/ds/vk developer`  
+🌠 `jun backend developer`  
+🥇 `middle tg/ds/vk developer`  
   
 📚 **stack:**  
 🤖 `node.js, mysql/sqlite3`  
