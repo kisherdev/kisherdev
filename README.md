@@ -1,5 +1,5 @@
 
-🌠 `jun backend developer`  
+🌠 `junior backend developer`  
 🥇 `middle tg/ds/vk developer`  
   
 📚 **stack:**  
