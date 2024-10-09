@@ -1,9 +1,9 @@
+\n
+🌠 junior backend developer\n
+🏆 senior tg/ds/vk developer\n\n
 
-🌠 junior backend developer
-🏆 senior tg/ds/vk developer
-
-📚 stack:
-🤖 node.js, mysql/sqlite3
-🖼️ express.js/node.js, mysql
+📚 stack:\n
+🤖 node.js, mysql/sqlite3\n
+🖼️ express.js/node.js, mysql\n\n
 
 <b>< ? > hello < /? ></b>
