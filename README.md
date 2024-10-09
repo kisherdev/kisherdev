@@ -2,7 +2,7 @@
 🌠 `junior backend developer`  
 🏆 `senior tg/ds/vk developer`  
   
-📚 stack:  
+📚 **stack:**  
 🤖 `node.js, mysql/sqlite3`  
 🖼️ `express.js/node.js, mysql`  
   
